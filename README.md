@@ -211,7 +211,7 @@ Step 7: Save and run the application.
 ```
 
 ## MAINACTIVITY.JAVA
-```
+```java
 package com.example.shared_ex1;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -276,7 +276,7 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## DATABASEMANAGER.JAVA
-```
+```java
 package com.example.shared_ex1;
 import android.content.ContentValues;
 import android.content.Context;
@@ -331,7 +331,7 @@ public class DatabaseManager {
 
 
 ## DATABASEHELPER.JAVA
-```
+```java
 Datapackage com.example.shared_ex1;
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
